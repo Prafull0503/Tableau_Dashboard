@@ -1,2 +1,2 @@
 # Tableau_Dashboard
-In this Project. I created a Road Accident Dashboard that shows Information about total number of Accidents in Current year and previous Year and based on this it will show Information about Road Accidents.
+This project involves creating an interactive dashboard in Tableau to visualize and analyze road accident data. The dashboard provides insights into accident trends, severity, locations, contributing factors, and more, enabling stakeholders to make data-driven decisions for improving road safety.
